@@ -29,3 +29,6 @@ Ponto.prototype.getY = function() {
 // Sugestão: usar padronização do Java, constantes possuem letras maiúsculas
 // separadas por sublinhados, exemplo: ESSA_E_UMA_CONSTANTE
 // TODO verificar se constantes e variáveis serão escritas em inglês
+
+var SCREEN_WIDTH  = 800;
+var SCREEN_HEIGHT = 600;
